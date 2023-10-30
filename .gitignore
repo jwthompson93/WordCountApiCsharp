@@ -1,0 +1,11 @@
+
+*.bin
+*.vsidx
+
+WordCountApi/.vs/*
+WordCountApi/bin/*
+WordCountApi/obj/*
+
+WordCountLib/.vs/*
+WordCountLib/bin/*
+WordCountLib/obj/*
